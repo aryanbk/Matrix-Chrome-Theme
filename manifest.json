@@ -3,9 +3,12 @@
 
 	"name": "Matrix",
 	"description": "Matrix has you",
-	"version": "1.0",
+	"version": "2.0",
 
 	"theme": {
+		"images" : {
+		  "theme_ntp_background" : "matrix_rain.png"
+		},
 		"colors": {
 			"frame": [0, 0, 0],
 			"frame_inactive": [0, 0, 0],
